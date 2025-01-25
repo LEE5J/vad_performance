@@ -63,8 +63,8 @@ for file_path in tqdm(audio_files):
                 pad =0.0
                 end_time = word_info["end"]
                 while start_time >= end_time:
-                    end_time += 0.01
-                    pad += 0.01
+                    end_time += 0.05
+                    pad += 0.05
                 word_tier.addInterval(
                     textgrid.Interval(start_time, end_time, text)
                 )

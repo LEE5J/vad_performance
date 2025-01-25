@@ -4,3 +4,5 @@ __pycache__
 Audios.tar.gz
 Audios/
 result_tg/
+Transcripts_test/
+result_nertg/
