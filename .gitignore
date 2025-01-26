@@ -6,3 +6,6 @@ Audios/
 result_tg/
 Transcripts_test/
 result_nertg/
+Labels/
+Prosodic_feature/
+result_files/
