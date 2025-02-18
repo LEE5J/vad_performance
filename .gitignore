@@ -9,3 +9,10 @@ result_nertg/
 Labels/
 Prosodic_feature/
 result_files/
+sample_files/
+.idea/
+LIWC_feature/
+Audios_feature/
+.vscode/
+Dictionary_feature/
+Syntax_feature/
